@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanbonai06&show_icons=true&theme=material-palenight)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 USED STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
