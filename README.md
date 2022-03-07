@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanbonai06)](https://solved.ac/sanbonai06/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanbonai06&show_icons=true&theme=material-palenight)
 
 <div align=center><h1>📚 STUDY STACKS</h1></div>
