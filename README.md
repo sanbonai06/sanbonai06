@@ -19,10 +19,11 @@ Here are some ideas to get you started:
   <li>홍익대학교 컴퓨터공학과 <sub>(2018.03 ~)</sub></li>
   <li><a href="https://github.com/sanbonai06/BunJangClone">Rising Camp</a> (Soft Squared 컴공선배) BE 과정 수료 <sub>(2021.12 ~ 2022.02)</sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 1차<a href="https://github.com/Gosrock/Ticket-Backend-21th"> BE </a> 파트 <sub>(2022.01 ~ 2022.03)</sub></li>
-  <li>신촌 지역 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> 15기 <a href="https://github.com/Team-PokeDon/django-vote-15th">BE</a> 파트 <sub>(2022.03 ~ 2022.06)</sub></li>
+  <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> 15기 <a href="https://github.com/Team-PokeDon/django-vote-15th">BE</a> 파트 <sub>(2022.03 ~ 2022.06)</sub></li>
   <li>숙명여대 - 홍익대 알고리즘 동아리 <a href="https://github.com/snovvow/sanbonai06">스노와우 </a> <sub>(2022.04 ~ )</sub></li>
   <li>어린이 금융 교육 서비스 창업팀 <a href="https://github.com/Bankidz">Bankidz </a> 팀 <a href="https://github.com/bankidz/bankidz-server"> BE </a> 파트 및 <a href="https://github.com/bankidz/bankidz-deploy">배포 </a> 담당 <sub>(2022.07 ~ )</sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 2차 <a href="https://github.com/Gosrock/Ticket-Backend-22th">BE</a> 파트<sub>(2022.07 ~ 2022.08)</sub></li>
+  <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> BE 파트 16기 운영진 <sub>(2022.08 ~ ) </sub></li>
   
   ----
 
