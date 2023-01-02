@@ -24,7 +24,8 @@ Here are some ideas to get you started:
   <li>어린이 금융 교육 서비스 창업팀 <a href="https://github.com/Bankidz">Bankidz </a> 팀 <a href="https://github.com/bankidz/bankidz-server"> BE </a> 파트 및 <a href="https://github.com/bankidz/bankidz-deploy">배포 </a> 담당 <sub>(2022.07 ~ )</sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 2차 <a href="https://github.com/Gosrock/Ticket-Backend-22th">BE</a> 파트<sub>(2022.07 ~ 2022.08)</sub></li>
   <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> BE 파트 16기 운영진 <sub>(2022.08 ~ ) </sub></li>
-  <li>오케이포스 자사 홈페이지 외주 BE 팀 <sub>(2022.10 ~ ) </sub></li>
+  <li>오케이포스 자사 홈페이지 외주 BE 팀 <sub> (2022.10 ~ ) </sub></li>
+  <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 이벤트 관리 서비스 (고스락 프로젝트 3차) <a href="https://github.com/sanbonai06/DuDoong-Backend"> BE </a> 파트 <sub> (2023.01 ~ )</sub></li>
   
   ----
 
