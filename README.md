@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sanbonai06%2Fgjbae1212%2Fhit-counter&count_bg=%23A997E9&title_bg=%237E96F1&icon=tencentqq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sanbonai06%2Fgjbae1212%2Fhit-counter&count_bg=%23A997E9&title_bg=%237E96F1&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **sanbonai06/sanbonai06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,37 +33,33 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanbonai06&show_icons=true&theme=material-palenight)
 
-<div align=center><h1>📚 STUDY STACKS</h1></div>
+<div align=center><h1>📚 MY STACKS</h1></div>
+
+<div align=center><h3> Language</h3></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/typescript-00599C?style=plastic?logo=typescript&logoColor=while">
   <br>
 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <h3>Backend Develop</h3>  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-A8B9CC?style=plastic&logo=jpa&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/jpa-A8B9CC?style=for-the-badge&logo=jpa&logoColor=white">
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/django-118414?style=plastic&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=plastic&logo=express&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=Node.js&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/django-118414?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <h3>Deploy</h3>
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-00599C?style=plastic&logo=docker&logoColor=white">
   <br>
 </div>
 
