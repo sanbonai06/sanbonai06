@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> BE 파트 16기 운영진 <sub>(2022.08 ~ ) </sub></li>
   <li>오케이포스 자사 홈페이지 외주 백엔드 개발 <sub> (2022.10 ~ 2023.01) </sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 이벤트 관리 서비스 DuDoong (고스락 프로젝트 3차) <a href="https://github.com/Gosrock/DuDoong-Backend"> 백엔드 </a> 개발 <sub> (2023.01 ~ )</sub></li>
+  <li>DEPORMEET 13기 BE 파트 <sub>(2023.04 ~ )</sub></li>
   
   ----
 
