@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <li>오케이포스 자사 홈페이지 외주 백엔드 개발 <sub> (2022.10 ~ 2023.01) </sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 이벤트 관리 서비스 DuDoong (고스락 프로젝트 3차) <a href="https://github.com/Gosrock/DuDoong-Backend"> 백엔드 </a> 개발 <sub> (2023.01 ~ )</sub></li>
   <li>에그픽 서비스 유지보수 외주 <sub> (2023.04 ~ ) </sub></li>
-  <li>DEPORMEET 13기 BE 파트 <sub>(2023.04 ~ )</sub></li>
+  <li>DEPORMEET 13기 온보딩을 돕는 자기소개 서비스 Ding-dong <a href = https://github.com/depromeet/Ding-dong-BE>백엔드</a> 개발<sub>(2023.04 ~ )</sub></li>
   
   ----
 
@@ -65,12 +65,6 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-
-<div align=center><h1>MOST USED STACKS</h1></div>
-
-<div align=center>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanbonai06&layout=compact&theme=tokyonight)
 
 </div>
 
