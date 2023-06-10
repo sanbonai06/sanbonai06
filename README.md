@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 1차<a href="https://github.com/Gosrock/Ticket-Backend-21th"> 백엔드 </a> 개발 <sub>(2022.01 ~ 2022.03)</sub></li>
   <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> 15기 <a href="https://github.com/Team-PokeDon/django-vote-15th">BE</a> 파트 <sub>(2022.03 ~ 2022.06)</sub></li>
   <li>숙명여대 - 홍익대 알고리즘 동아리 <a href="https://github.com/snovvow/sanbonai06">스노와우 </a> <sub>(2022.04 ~ )</sub></li>
-  <li>어린이 금융 교육 서비스 창업팀 <a href="https://github.com/Bankidz">Bankidz </a> 팀 <a href="https://github.com/bankidz/bankidz-server"> 백엔드 </a> 개발 및 <a href="https://github.com/bankidz/bankidz-deploy">인프라 </a> 구축 <sub>(2022.07 ~ )</sub></li>
+  <li>어린이 금융 교육 서비스 창업팀 <a href="https://github.com/Bankidz">Bankidz </a> 팀 <a href="https://github.com/bankidz/bankidz-server"> 백엔드 </a> 개발 및 <a href="https://github.com/bankidz/bankidz-deploy">인프라 </a> 구축 <sub>(2022.07 ~ 2023.05)</sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 2차 <a href="https://github.com/Gosrock/Ticket-Backend-22th">백엔드</a> 개발<sub>(2022.07 ~ 2022.08)</sub></li>
   <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> BE 파트 16기 운영진 <sub>(2022.08 ~ 2023.02) </sub></li>
   <li>오케이포스 자사 홈페이지 외주 백엔드 개발 <sub> (2022.10 ~ 2023.01) </sub></li>
