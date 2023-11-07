@@ -26,10 +26,11 @@ Here are some ideas to get you started:
   <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> BE 파트 16기 운영진 <sub>(2022.08 ~ 2023.02) </sub></li>
   <li>오케이포스 자사 홈페이지 외주 백엔드 개발 <sub> (2022.10 ~ 2023.01) </sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 이벤트 관리 서비스 DuDoong (고스락 프로젝트 3차) <a href="https://github.com/Gosrock/DuDoong-Backend"> 백엔드 </a> 개발 <sub> (2023.01 ~ )</sub></li>
-  <li>에그픽 서비스 유지보수 외주 <sub> (2023.04 ~ ) </sub></li>
-  <li>DEPORMEET 13기 온보딩을 돕는 자기소개 서비스 Ding-dong <a href = https://github.com/depromeet/Ding-dong-BE>백엔드</a> 개발<sub>(2023.04 ~ )</sub></li>
+  <li>에그픽 서비스 유지보수 외주 <sub> (2023.04 ~ 2023.10) </sub></li>
+  <li>DEPORMEET 13기 온보딩을 돕는 자기소개 서비스 Ding-dong <a href = https://github.com/depromeet/Ding-dong-BE>백엔드</a> 개발<sub>(2023.04 ~ 2023.09)</sub></li>
   <li>에그픽 백오피스 백엔드 리뉴얼 외주 <sub>(2023.06 ~ 2023.08)</sub></li>
-  <li>모스트 엑스 백엔드 개발 외주 <sub>(2023.08 ~ )</sub></li>
+  <li>모스트 엑스 백엔드 개발 외주 <sub>(2023.08 ~ 2023.10)</sub></li>
+  <li>Toss Insurance Server Developer <sub>(2023.11 ~ )</sub></li>
   
   ----
 
